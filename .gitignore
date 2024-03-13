@@ -7,7 +7,7 @@ node_modules
 
 # Local env files
 .env
-./apps/server/src/services/secrets.ts
+./apps/server/src/services/application_secrets.ts
 .env.local
 .env.development.local
 .env.test.local
